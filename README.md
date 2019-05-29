@@ -16,7 +16,7 @@ a repo recording paper notes to encourage efficient paper reading.
 **Notes**: Don't read paper from the beginning to the end of the article. It's not a good use of your time.
 ## 2. A fairly simple algorithm to get the most out of the paper with the least effort with two phase process.
 ### First phase: how to survey the paper?
-    1).Read the title and ketwords
+    1).Read the title and keywords
     2).Read the abstract
     3).Read the conclusions
 ### Second phase: how to read the paper?
@@ -46,3 +46,17 @@ At last, it's nececcary to write paper notes. **The faintest writing is better t
 * **Summary**: introduce basic reinforcement learning algorithm, about model based algorithm, value based method, policy gradient method and its variants, etc.
 * **Pros**: basic and comprehensive.
 * **Cons**: no exercise solution.
+
+<a name="2"/>
+
+# Reinforcement learning
+
+
+<a name="3"/>
+
+# Deep learning
+
+<a name="4"/>
+
+# Continual learning
+
