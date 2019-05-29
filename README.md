@@ -41,7 +41,8 @@ At last, it's nececcary to write paper notes. **The faintest writing is better t
 [1] [Reinforcement learning: an introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 * **Key word**: reinforcement learning
 * **Authors**: Richard S. Sutton and Andrew G. Barto
-* **Read date**: 2019.5.24
+* **Publish date**: 2018
+* **Read date**: 2019/5/24
 * **Tag**: textbook
 * **Summary**: introduce basic reinforcement learning algorithm, about model based algorithm, value based method, policy gradient method and its variants, etc.
 * **Pros**: basic and comprehensive.
