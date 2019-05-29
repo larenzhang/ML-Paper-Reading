@@ -14,6 +14,7 @@ a repo recording paper notes to encourage efficient paper reading.
 # Preliminary knowledge
 
 [1] [Reinforcement learning: an introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+* **Key word**: reinforcement learning
 * **Authors**: Richard S. Sutton and Andrew G. Barto
 * **Read date**: 2019.5.24
 * **Tag**: textbook
